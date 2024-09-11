@@ -22,6 +22,16 @@ public class Main {
         short aaa = -159;
         short aab = 27897;
         byte aac = 67;
+        //                                  tesk 3
+        byte lpClass = 23;
+        byte asClass = 27;
+        byte eaClass = 30;
+        int totalStudents = lpClass + asClass + eaClass;
+        int paperPurchased = 480;
+        int separation = paperPurchased / totalStudents;
+        System.out.println("На каждого ученика рассчитано " + separation + " листов бумаги");
+        //                                  tesk 4
+        byte
     }
 }
 
