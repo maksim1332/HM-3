@@ -14,7 +14,7 @@ public class Main {
         System.out.println("Значение переменной "+"long "+"с типом "+"Целочисленные "+"равно "+d);
         System.out.println("Значение переменной "+"float "+"с типом "+"С плавающей точкой "+"равно "+f);
         System.out.println("Значение переменной "+"double "+"с типом "+"С плавающей точкой "+"равно " +g);
-        //                                 tesk 2
+        //                                  tesk 2
         float aa = 27.12f;
         long ab = 987678965549L;
         float ac =2.786f;
@@ -30,7 +30,7 @@ public class Main {
         int paperPurchased = 480;
         int separation = paperPurchased / totalStudents;
         System.out.println("На каждого ученика рассчитано " + separation + " листов бумаги");
-        //                                  tesk 4
+//                                         tesk 4
         byte efficiency = 16;
         byte time = 2;
         byte aTime= 20;
@@ -44,7 +44,7 @@ public class Main {
         System.out.println("За " + "1 день" + " машина произвела " + efficiencyDay1Hour + " штук бутылок");
         System.out.println("За " + "3 дня" + " машина произвела " + efficiencyDay3Hour + " штук бутылок");
         System.out.println("За " + "1 Месяц" + " машина произвела " + efficiencyDay30Hour + " штук бутылок");
-        //                                   tesk 5
+//                                             tesk 5
         byte cansOfPaint = 120;
         byte ofrOneClass = 6;
         int totalClasses = cansOfPaint / ofrOneClass;
