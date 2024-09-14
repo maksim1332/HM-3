@@ -44,7 +44,7 @@ public class Main {
         System.out.println("За " + "1 день" + " машина произвела " + efficiencyDay1Hour + " штук бутылок");
         System.out.println("За " + "3 дня" + " машина произвела " + efficiencyDay3Hour + " штук бутылок");
         System.out.println("За " + "1 Месяц" + " машина произвела " + efficiencyDay30Hour + " штук бутылок");
-        //                                   tesk 5
+//                                            tesk 5
         byte cansOfPaint = 120;
         byte ofrOneClass = 6;
         int totalClasses = cansOfPaint / ofrOneClass;
