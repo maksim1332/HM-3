@@ -30,7 +30,7 @@ public class Main {
         int paperPurchased = 480;
         int separation = paperPurchased / totalStudents;
         System.out.println("На каждого ученика рассчитано " + separation + " листов бумаги");
-        //                                  tesk 4
+//                                         tesk 4
         byte efficiency = 16;
         byte time = 2;
         byte aTime= 20;
